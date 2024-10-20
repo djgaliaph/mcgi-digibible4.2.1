@@ -1,4 +1,4 @@
-# MCGI-digibible4.2.1
+# MCGI-DigiBible 4.2.1
 Download Digital Bible for Free (120 versions)
 * How to Download
 * 1. Install git --> https://git-scm.com/downloads
