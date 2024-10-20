@@ -10,3 +10,7 @@ Download Digital Bible for Free (120 versions)
 *  Use the bible with no interuptions
 
 *  ALTERNATIVE LINK FOR DigiBible 4.2.1 --> https://github.com/djgaliaph/mcgi-bible4.2.1.0-ADB-KJV-
+
+
+![image](https://github.com/user-attachments/assets/cd7e57ab-669d-4ef8-ba2a-3ec771b2c140)
+
