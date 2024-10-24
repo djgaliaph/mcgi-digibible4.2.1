@@ -1,6 +1,6 @@
 # MCGI-DigiBible 4.2.1
 Download Digital Bible for Free (120 versions)
-* How to Download
+* How to Download (Available only thru git)
 * 1. Install Git --> https://git-scm.com/downloads
 * 2. Open Git bash
 * 3. Clone the repositories using  $ git clone command
@@ -8,9 +8,8 @@ Download Digital Bible for Free (120 versions)
 }@github.com/djgaliaph/mcgi-digi-bible-4.2.1.0.git
 * After cloning open Bible.Digital.exe and run as Administrator  
 *  Use the bible with no interuptions
-
-*  ALTERNATIVE LINK FOR DigiBible 4.2.1 --> https://github.com/djgaliaph/mcgi-bible4.2.1.0-ADB-KJV-
-*  Digital Bible for PC and CP       ---> https://web.digitalbible.app
+* (Available only thru git)  ALTERNATIVE LINK FOR DigiBible 4.2.1 --> https://github.com/djgaliaph/mcgi-bible4.2.1.0-ADB-KJV-
+*  (Available in Public) Digital Bible for PC and CP       ---> https://web.digitalbible.app
   
 
 
