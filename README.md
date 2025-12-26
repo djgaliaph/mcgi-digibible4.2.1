@@ -14,5 +14,5 @@ Download Digital Bible for Free (120 versions)
 
 ![image](https://github.com/user-attachments/assets/cd7e57ab-669d-4ef8-ba2a-3ec771b2c140)
 
-# PERMANENTLY DISABLED THE DOWNLOAD LINK STARTING DECEMBER 24, 2025 UNTIL FURTHER NOTICE...
+# Starting December 24, 2025, the download link is disabled until further notice.
 
