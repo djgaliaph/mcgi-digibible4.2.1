@@ -8,6 +8,7 @@ Download Digital Bible for Free (120 versions)
 * After cloning open Bible.Digital.exe and run as Administrator  
 *  Use the bible with no interuptions
 * (Available only thru git)  ALTERNATIVE LINK FOR DigiBible 4.2.1 --> https://github.com/djgaliaph/mcgi-bible4.2.1.0-ADB-KJV-
+* Download DigitalBible.exe --> https://digitalbible.djgaliaph.com/digibible4/DigitalBibleSetup.exe
 *  (Available in Public) Digital Bible for PC and CP       ---> https://web.digitalbible.app
 
 *  Git tutorial on how to download  -- https://youtu.be/89_3NiB__vk
