@@ -9,6 +9,7 @@ Download Digital Bible for Free (120 versions)
 *  Use the bible with no interuptions
 * (Available only thru git)  ALTERNATIVE LINK FOR DigiBible 4.2.1 --> https://github.com/djgaliaph/mcgi-bible4.2.1.0-ADB-KJV-
 * SHA-256: e53630e10b60ab62f8ab844f748a62ce76c5fa6f414ff1818b9af392b2f84824
+* Password (value in hash): 73ac7d09fb3819ba574fd5ed028c5b16f3d41eb7e7bd59ddbbd6dee918cc0167
 *  (Available in Public) Digital Bible for PC and CP       ---> https://web.digitalbible.app
 
 *  Git tutorial on how to download  -- https://youtu.be/89_3NiB__vk
